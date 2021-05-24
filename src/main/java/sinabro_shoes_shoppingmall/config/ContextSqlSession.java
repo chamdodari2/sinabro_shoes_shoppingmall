@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@MapperScan("spring5_webmvc_mybatis_study.mapper")
+@MapperScan("sinabro_shoes_shoppingmall.mapper")
 public class ContextSqlSession {
 	@Autowired
 	ApplicationContext applicationContext;

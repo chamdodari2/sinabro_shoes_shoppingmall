@@ -7,7 +7,7 @@
 		<setting name="mapUnderscoreToCamelCase" value="true" />
 	</settings>
 <typeAliases>
-<package name="spring5_webmvc_mybatis_study.dto"/>
+<package name="sinabro_shoes_shoppingmall.dto"/>
 </typeAliases>
 	
 	
